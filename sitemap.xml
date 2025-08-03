@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://example.com/</loc>
+  </url>
+  <url>
+    <loc>https://example.com/tools/word-count.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/tools/char-count.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/tools/case-converter.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/tools/remove-spaces.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/tools/emoji-to-text.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/tools/random-number.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/tools/qr-generator.html</loc>
+  </url>
+</urlset> 
